@@ -47,4 +47,8 @@ Does the same thing as pi.py but faster py.py takes 35seconds to calculate pi fo
 
 ### random_walk_1D.py
 
-Classic drunk man problem with steps -1 and 1 and the average of square of the displacement is directly propertional to the Number of steps taken 
+Classic drunk man problem with steps -1 and 1 and the average of square of the displacement is directly propertional to the Number of steps taken.
+
+### random_walk_2D.py and random_walk_2D.c
+
+Wow another win for C out performs python again both code do the same thing though.
