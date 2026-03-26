@@ -44,3 +44,7 @@ This code was made from the concept introduced by Buffon and Laplace in which th
 ### pi.c
 
 Does the same thing as pi.py but faster py.py takes 35seconds to calculate pi for 1million steps while c does 1 billion steps in 18 seconds, maybe my python code may not be that memory efficient if so completly on me :)
+
+### random_walk_1D.py
+
+Classic drunk man problem with steps -1 and 1 and the average of square of the displacement is directly propertional to the Number of steps taken 
