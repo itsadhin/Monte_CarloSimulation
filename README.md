@@ -39,7 +39,7 @@ This code considers a unit square and takes two random points on it then the cal
 
 ### pi.py
 
-This code was made from the concept introduced by Buffon and Laplace in which they said if we consider a square and circle inside it and randomly drop needles inside and if we consider the ratio of needle inside the circle to square of a unit circle we can find the value of $\pi$ by taking $\dfrac{r^2}{4r^2}$. So $\pi$ would be 4$\dfrac{Needle_{circle}}{Needles_{square}}$. More steps considered more accurate the value would be.
+This code was made from the concept introduced by Buffon and Laplace in which they said if we consider a square and circle inside it and randomly drop needles inside and if we consider the ratio of needle inside the circle to square of a unit circle we can find the value of $\pi$ by taking $\dfrac{r^2}{4r^2}$. So $\pi$ would be 4$\dfrac{\text{Needle}_{\text{circle}}}{\text{Needles}_{\text{square}}}$. More steps considered more accurate the value would be.
 
 ### pi.c
 
