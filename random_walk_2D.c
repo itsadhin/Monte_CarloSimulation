@@ -22,9 +22,9 @@ double average(double y[])
 int main(void)
 {
 	srand(time(NULL)); /* generates diff seed for each run */
-	trial = 1000;
+	trial = 1000000;
 	steps = 1000;
-	double r_square[1000];
+	double r_square[trial];
 	for (int i = 0; i < trial ; i++)
 	{
 		initial_x = 0;
